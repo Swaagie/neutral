@@ -1,0 +1,19 @@
+{
+  "configuration": {
+    "dist": "assets/{ext}/screen.{type}.{ext}",
+    "plugins": {
+      "minify": {}
+    }
+  },
+  "bundle": {
+    "assets/css/normalize.css": {
+      "description": "Normalize the CSS"
+    },
+    "assets/css/screen.css": {
+      "description": "Theme CSS"
+    },
+    "assets/css/font.css": {
+      "description": "Font-awesome icons CSS"
+    }
+  }
+}
