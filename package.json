@@ -1,0 +1,28 @@
+{
+  "name": "Neutral",
+  "version": "0.0.1",
+  "description": "Ghost blog theme, based on the original Casper theme",
+  "scripts": {
+    "compile": "./node_modules/.bin/square square.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Swaagie/neutral.git"
+  },
+  "keywords": [
+    "Ghost",
+    "blog",
+    "theme",
+    "neutral",
+    "blue"
+  ],
+  "author": "Martijn Swaagman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Swaagie/neutral/issues"
+  },
+  "homepage": "https://github.com/Swaagie/neutral",
+  "devDependencies": {
+    "square": "git://github.com/observing/square.git#development"
+  }
+}
