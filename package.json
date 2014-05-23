@@ -1,6 +1,6 @@
 {
   "name": "Neutral",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ghost blog theme, based on the original Casper theme",
   "scripts": {
     "compile": "./node_modules/.bin/square square.json"
